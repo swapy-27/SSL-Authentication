@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mTLS.example</groupId>
-	<artifactId>client-side</artifactId>
+	<artifactId>server-side</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>client-side</name>
 	<description>implementation of mutual TLS security + WebClient learning</description>
